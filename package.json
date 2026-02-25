@@ -10,14 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
     "@tailwindcss/vite": "^4.1.17",
     "chart.js": "^4.5.1",
+    "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.554.0",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.7",
+    "radix": "^0.0.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.6",
+    "tailwind-merge": "^3.5.0",
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
